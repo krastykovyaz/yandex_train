@@ -4,4 +4,4 @@ lib
 .idea
 .DS_Store
 venv
-*
+.python-version
